@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.taotao.protal.controller.Controller.java&apos; to &apos;CartController.java&apos;&#x0D;&#x0A;- Original project: &apos;taotao-protal&apos;&#x0D;&#x0A;- Original element: &apos;com.taotao.protal.controller.Controller.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.taotao.protal.controller.CartController.java&apos;" description="Rename compilation unit &apos;Controller.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.taotao.protal.controller{Controller.java" name="CartController.java" references="false" stamp="1508243947626" version="1.0"/>
+</session>

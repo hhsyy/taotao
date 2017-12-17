@@ -1,0 +1,32 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.taotao.pojo.TbItemExample"><rhs name\="com.taotao.pojo.TbItemExample"/></lhs><lhs name\="org.springframework.core.env.EnvironmentCapable"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.beans.factory.ListableBeanFactory"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.beans.factory.BeanFactory"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.beans.factory.HierarchicalBeanFactory"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.MessageSource"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.ApplicationEventPublisher"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.core.io.support.ResourcePatternResolver"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.core.io.ResourceLoader"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.ApplicationContext"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="com.github.pagehelper.PageInfo"><rhs name\="com.github.pagehelper.PageInfo"/></lhs><lhs name\="com.taotao.common.pojo.EUDataGridResult"><rhs name\="com.taotao.common.pojo.EUDataGridResult"/></lhs><lhs name\="com.taotao.common.util.FtpUtil"><rhs name\="com.taotao.common.util.FtpUtil"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.web.bind.annotation.RequestMethod"/></lhs><lhs name\="com.taotao.pojo.TbItemDesc"><rhs name\="com.taotao.pojo.TbItemDesc"/></lhs><lhs name\="com.taotao.pojo.TbItemParamExample"><rhs name\="com.taotao.pojo.TbItemParamExample"/></lhs><lhs name\="com.taotao.pojo.TbItemParamItem"><rhs name\="com.taotao.pojo.TbItemParamItem"/></lhs><lhs name\="com.taotao.common.util.TaotaoResult"><rhs name\="com.taotao.common.util.TaotaoResult"/></lhs><lhs name\="com.taotao.pojo.TbContentCategoryExample"><rhs name\="com.taotao.pojo.TbContentCategoryExample"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.taotao.common.pojo.EUNode"><rhs name\="com.taotao.common.pojo.EUNode"/></lhs><lhs name\="redis.clients.jedis.JedisCommands"><rhs name\="redis.clients.jedis.Jedis"/><rhs name\="redis.clients.jedis.JedisCluster"/></lhs><lhs name\="redis.clients.jedis.MultiKeyCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.AdvancedJedisCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.ScriptingCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.BasicCommands"><rhs name\="redis.clients.jedis.Jedis"/><rhs name\="redis.clients.jedis.JedisCluster"/></lhs><lhs name\="redis.clients.jedis.ClusterCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.SentinelCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.BinaryJedis"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.BinaryJedisCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.MultiKeyBinaryCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.AdvancedBinaryJedisCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.BinaryScriptingCommands"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="java.io.Closeable"><rhs name\="redis.clients.jedis.Jedis"/><rhs name\="redis.clients.jedis.JedisCluster"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="redis.clients.jedis.Jedis"/><rhs name\="redis.clients.jedis.JedisCluster"/></lhs><lhs name\="redis.clients.jedis.Jedis"><rhs name\="redis.clients.jedis.Jedis"/></lhs><lhs name\="redis.clients.jedis.JedisCluster"><rhs name\="redis.clients.jedis.JedisCluster"/></lhs><lhs name\="redis.clients.jedis.HostAndPort"><rhs name\="redis.clients.jedis.HostAndPort"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+proposalOrderMigrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
